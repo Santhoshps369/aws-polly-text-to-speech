@@ -153,9 +153,6 @@ Configure the Source S3 bucket to trigger the Lambda function whenever a `.txt` 
 
 ---
 
-## ⚡ AWS Lambda Function
-
-![Lambda Function](screenshots/lambda-function.png)
 
 ---
 
